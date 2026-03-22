@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20dalejenny!&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20luis-ai-systems!&fontSize=50&animation=fadeIn" width="100%" />
 </div>
 
 <h3 align="center">Software Engineer 🏭 ➔ AI Application Developer 🤖</h3>
@@ -11,8 +11,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/dalejenny">
-    <img src="https://img.shields.io/github/followers/dalejenny?label=Followers&style=social" alt="GitHub followers">
+  <a href="https://github.com/luis-ai-systems">
+    <img src="https://img.shields.io/github/followers/luis-ai-systems?label=Followers&style=social" alt="GitHub followers">
   </a>
 </p>
 
@@ -71,11 +71,11 @@ I'm a software engineer transitioning into **AI Application Development**, with 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/dalejenny">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dalejenny&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/luis-ai-systems">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-ai-systems&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/dalejenny">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalejenny&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/luis-ai-systems">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-ai-systems&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
@@ -116,7 +116,7 @@ I'm a software engineer transitioning into **AI Application Development**, with 
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/dalejenny">
+  <a href="https://github.com/luis-ai-systems">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
@@ -127,8 +127,8 @@ I'm a software engineer transitioning into **AI Application Development**, with 
 <!-- GitHub 活跃度贪吃蛇图表 (需要借助 GitHub Actions 自动更新) -->
 <div align="center">
   <picture>
-    <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dalejenny/dalejenny/output/github-contribution-grid-snake-dark.svg"> -->
-    <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dalejenny/dalejenny/output/github-contribution-grid-snake.svg"> -->
+    <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luis-ai-systems/luis-ai-systems/output/github-contribution-grid-snake-dark.svg"> -->
+    <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luis-ai-systems/luis-ai-systems/output/github-contribution-grid-snake.svg"> -->
   </picture>
 </div>
 
