@@ -1,136 +1,126 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20luis-ai-systems!&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there,%20I'm%20Luis!&fontSize=50&animation=fadeIn" width="100%" />
 </div>
 
-<h3 align="center">Software Engineer 🏭 ➔ AI Application Developer 🤖</h3>
+<h2 align="center">Software Architect 🏭 🚀 AI Application Developer</h2>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=💻+Software+Engineer+(C%23,+Java,+C%2B%2B);🏭+Industrial+Systems+(ERP,+MES,+SCADA);🤖+Transitioning+to+AI+(LLM,+RAG);🚀+Building+Production-Ready+AI)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=💻+Software+Engineer+(C%23,+Java,+C%2B%2B);🏭+Industrial+Systems+(ERP,+MES,+SCADA);⚙️+DevOps+&+Cloud+Architecture;🤖+Transitioning+to+AI+(LLM,+RAG);🚀+Building+Production-Ready+AI" />
+  </a>
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/luis-ai-systems">
     <img src="https://img.shields.io/github/followers/luis-ai-systems?label=Followers&style=social" alt="GitHub followers">
   </a>
-</p>
-
-I'm a software engineer transitioning into **AI Application Development**, with a solid background in industrial systems and enterprise software. I believe the future belongs to developers who can **combine AI with real-world systems**, not just write code.
-
----
-
-### 🚀 About Me & What I'm Working On
-
-<p align="left">
-  <ul>
-    <li>🔧 Currently building <b>AI-powered industrial diagnosis systems</b></li>
-    <li>📊 Developing <b>AI + Data platforms (RAG / Knowledge Base)</b></li>
-    <li>🤖 Exploring <b>LLM integration</b> with real-world enterprise architectures</li>
-    <li>🔄 Transitioning from traditional software (ERP/MES/SCADA) → <b>AI + Industry solutions</b></li>
-  </ul>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <b>Languages</b><br>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-<p align="left">
-  <b>Frontend</b><br>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>Backend & Systems</b><br>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=openapi-initiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Industrial%20Protocols-004088?style=for-the-badge&logo=siemens&logoColor=white" title="OPC, PLC integration" />
-</p>
-
-<p align="left">
-  <b>AI & Data</b><br>
-  <img src="https://img.shields.io/badge/LLM_APIs-FF9900?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=Weaviate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_DBs-00A651?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/luis-ai-systems">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-ai-systems&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/luis-ai-systems">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-ai-systems&layout=compact&langs_count=7&theme=radical"/>
+  <a href="mailto:lyq1255446583@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Chat-D14836?style=social&logo=gmail" alt="Email me" />
   </a>
 </div>
 
----
+<br/>
 
-### 📌 Featured Projects & Goals
+<h3 align="center">🔥 About Me</h3>
+<p align="center">
+  I am a <b>System Engineer</b> transitioning into <b>AI Application Development</b>.<br/>
+  My solid background is in industrial architectures and enterprise software. 
+</p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <b>🎯 Current Focus</b><br>
-        <ul align="left">
-          <li>Building <b>real-world AI applications</b>, not demos</li>
-          <li>Combining <b>AI with enterprise scenarios</b></li>
-          <li>Improving <b>system design & architecture</b></li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <b>📈 Personal Goals</b><br>
-        <ul align="left">
-          <li>🚀 Become an <b>AI Application Engineer (ToB)</b></li>
-          <li>🧩 Build <b>production-ready AI systems</b></li>
-          <li>🌍 Solve <b>real business problems</b> with AI</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+
+| Focus | Engineering & Architecture |
+| :---: | :--- |
+| 🤖 | Integrating __LLMs (RAG)__ with real-world enterprise architectures |
+| 🏭 | Building __AI-powered industrial diagnosis systems__ |
+| ⚙️ | Architecting __robust CI/CD pipelines & Cloud infra__ |
+| 🔄 | Bringing traditional software (ERP/MES) to the __AI era__ |
+
 </div>
 
-**Highlights:**
-* 🚧 **AI Industrial Diagnosis System** *(In Progress)*
-* 🤖 **ERP AI Assistant** *(Planned)*
-* 📊 **Data Analysis Platform** *(Planned)*
+<br/>
 
----
-
-### 📫 Let's Connect!
+<h3 align="center">🛠️ Tech Stack & Skills</h3>
 
 <p align="center">
-  <a href="https://github.com/luis-ai-systems">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <b>Languages & Frameworks</b><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,cpp,py,js,ts,vue,html,css,dotnet,spring&perline=11" alt="Languages & Frameworks" />
   </a>
 </p>
 
-<!-- GitHub 活跃度贪吃蛇图表 (需要借助 GitHub Actions 自动更新) -->
+<p align="center">
+  <b>Infrastructure, Cloud & Databases</b><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,githubactions,aws,mongodb,nodejs&perline=11" alt="Infra & Cloud" />
+  </a>
+</p>
+
+<br/>
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=luis-ai-systems&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
+
 <div align="center">
+  <a href="https://github.com/luis-ai-systems">
+    <img src="https://github-readme-stats.vercel.app/api?username=luis-ai-systems&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&icon_color=2196F3" height="192" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/luis-ai-systems">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-ai-systems&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9" height="192" alt="Top Languages" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/luis-ai-systems">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luis-ai-systems&theme=radical&hide_border=true&background=0D1117" height="192" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">🚧 Featured Work</h3>
+
+> 1️⃣ **AI Industrial Diagnosis System** *(In Progress)*  
+> *A robust LLM + SCADA integration leveraging vast industrial data to predict and diagnose engine/machine failures in real-time.*
+> 
+> 2️⃣ **ERP AI Assistant** *(Planned)*  
+> *Bridging conversational AI with legacy enterprise software, allowing users to interact with CRM/ERP data simply by chatting.*
+> 
+> 3️⃣ **Data Analysis Platform** *(Planned)*  
+> *Backed by Retrieval-Augmented Generation (RAG) to instantly synthesize insights from historical production databases.*
+
+<br/>
+
+<h3 align="center">📌 Development Journey & Goals</h3>
+
+<div align="center">
+
+| 🎯 Current Focus | 🚀 Personal Goals |
+| :--- | :--- |
+| • Transforming demos into real-world AI applications | • Become a Top-Tier AI Application Engineer (ToB) |
+| • Fusing AI + enterprise / industrial scenarios | • Architect production-ready AI/RAG systems |
+| • Refining system design & DevOps pipelines | • Solve complex industrial business problems |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🐍 GitHub Contributions Snake</h3>
+  <!-- GitHub Action to generate snake animation must be set up to use this SVG -->
+  <!-- See https://github.com/Platane/snk for instruction on how to generate this -->
   <picture>
-    <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luis-ai-systems/luis-ai-systems/output/github-contribution-grid-snake-dark.svg"> -->
-    <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luis-ai-systems/luis-ai-systems/output/github-contribution-grid-snake.svg"> -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luis-ai-systems/luis-ai-systems/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luis-ai-systems/luis-ai-systems/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luis-ai-systems/luis-ai-systems/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
