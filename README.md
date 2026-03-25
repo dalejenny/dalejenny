@@ -15,6 +15,9 @@
   <a href="https://github.com/luis-ai-systems">
     <img src="https://komarev.com/ghpvc/?username=luis-ai-systems&color=2196F3&style=flat-square&label=VIEWS" alt="Profile Views" />
   </a>
+  <a href="https://roadmap.sh/u/luisai">
+    <img src="https://img.shields.io/badge/Roadmap-Profile-00ADFF?style=flat-square&logo=roadmapdotsh" alt="Roadmap" />
+  </a>
   <a href="mailto:lyq1255446583@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's_Chat-D14836?style=flat-square&logo=gmail" alt="Email" />
   </a>
